@@ -1,5 +1,5 @@
 {
-  "name": "runscr",
+  "name": "@lordkriegan/runscr",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
